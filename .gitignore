@@ -1,0 +1,9 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Gradle wrapper and build files
+gradle/
+gradlew
+gradlew.bat
+build.gradle.kts
+gradle.properties
